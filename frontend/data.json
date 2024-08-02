@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Check if your wedding date is on an auspicious day",
+    "category": "Planning",
+    "status": "pending"
+  },
+  {
+    "title": "Do you want a destination wedding?",
+    "category": "Planning",
+    "status": "pending"
+  },
+  {
+    "title": "Short list date options for all pre-wedding functions",
+    "category": "Planning",
+    "status": "pending"
+  },
+  {
+    "title": "Delegate responsibilities",
+    "category": "Other",
+    "status": "pending"
+  },
+  {
+    "title": "Decide whether or not you'd like to use a wedding planner",
+    "category": "Planning",
+    "status": "pending"
+  },
+  {
+    "title": "Download the WeddingWire App",
+    "category": "Planning",
+    "status": "pending",
+    "action": "Download Now"
+  },
+  {
+    "title": "Create initial guest list using our guest list tool",
+    "category": "Planning",
+    "status": "pending",
+    "action": "Start guest list"
+  },
+  {
+    "title": "Confirm venue budget",
+    "category": "Events",
+    "status": "pending",
+    "action": "Update your events budget"
+  }
+]
