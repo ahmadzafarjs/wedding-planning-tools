@@ -1,0 +1,1011 @@
+{
+  "Events": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Welcome Party / Cocktails: Venue rental",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Mehndi: Venue rental",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Sangeet: Venue rental",
+        "estimatedBudget": 100852,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Reception: Venue rental",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Ceremony: Venue rental",
+        "estimatedBudget": 169432,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Tent house rental",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Chairs, linens, etc",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Catering": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Welcome Party / Cocktails: Meal costs",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Welcome Party / Cocktails: Alcoholic beverages",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Baraat: Tea & Snacks",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Mehndi: Alcoholic beverages",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Mehndi: Meal costs",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Sangeet: Alcoholic beverages",
+        "estimatedBudget": 40340,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Sangeet: Meal costs",
+        "estimatedBudget": 151280,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Ceremony: Meal costs",
+        "estimatedBudget": 254148,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Reception: Meal costs",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Reception: Alcoholic beverages",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Wedding cake",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Mithai and other sweets",
+        "estimatedBudget": 10086,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Photography and video": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Engagement shoot",
+        "estimatedBudget": 10086,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Photographer (wedding events)",
+        "estimatedBudget": 70596,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Videographer (wedding events)",
+        "estimatedBudget": 15128,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Photobooth",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Physical prints and videos",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Planning": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Wedding planner",
+        "estimatedBudget": 50426,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Jewellery": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Bridal jewellery",
+        "estimatedBudget": 252130,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Wedding rings",
+        "estimatedBudget": 100852,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Transportation": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Wedding car",
+        "estimatedBudget": 10086,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Guest transportation",
+        "estimatedBudget": 10086,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Baraat: Groom transportation",
+        "estimatedBudget": 20170,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Wedding cards": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Save the Dates",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Invitations",
+        "estimatedBudget": 40340,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Flowers and Decoration": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Welcome Party / Cocktails d\u00e9cor",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Mehndi d\u00e9cor",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Sangeet d\u00e9cor",
+        "estimatedBudget": 40340,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Ceremony d\u00e9cor",
+        "estimatedBudget": 100852,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Reception d\u00e9cor",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Lighting",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Car decoration",
+        "estimatedBudget": 3026,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Bridal accessories": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Lehenga and sarees",
+        "estimatedBudget": 60512,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Party dresses",
+        "estimatedBudget": 45384,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Shoes",
+        "estimatedBudget": 3026,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Hair accessories",
+        "estimatedBudget": 2018,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Lingerie",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Groom's accessories": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Groom sherwani",
+        "estimatedBudget": 35298,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Groom suit",
+        "estimatedBudget": 25214,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Shoes",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Other accessories",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Health & Beauty": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Bridal hair",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Bridal makeup",
+        "estimatedBudget": 15128,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Bridal beauty treatments (salon)",
+        "estimatedBudget": 15128,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Mehndi artist",
+        "estimatedBudget": 10086,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Entertainment": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "DJ or wedding band",
+        "estimatedBudget": 10086,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Dholi",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Dance choreography",
+        "estimatedBudget": 10086,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Audio and video equipment (extra)",
+        "estimatedBudget": 10086,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Guests": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Guest accomodations",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Wedding favours",
+        "estimatedBudget": 50426,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Honeymoon": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Flights",
+        "estimatedBudget": 35298,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Hotel",
+        "estimatedBudget": 50426,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Excursions",
+        "estimatedBudget": 20170,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Visas",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Ceremony": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Pandit, priest, or equivalent",
+        "estimatedBudget": 5144,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Donations",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Ceremony props (flowers, rice, etc)",
+        "estimatedBudget": 5042,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  },
+  "Other": {
+    "estimatedBudget": 0,
+    "finalCost": 0,
+    "paid": 0,
+    "expenses": [
+      {
+        "expense": "Bride/groom accommodations",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Family and in-law gifts",
+        "estimatedBudget": 70596,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Car rentals",
+        "estimatedBudget": 0,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      },
+      {
+        "expense": "Bachelor/bachelorette expenses",
+        "estimatedBudget": 20170,
+        "finalCost": 0,
+        "paid": {
+          "amount": 0,
+          "isPaid": false,
+          "dateOfPayment": null,
+          "paymentDueBy": null,
+          "paidBy": null,
+          "paymentMethod": null
+        }
+      }
+    ]
+  }
+}

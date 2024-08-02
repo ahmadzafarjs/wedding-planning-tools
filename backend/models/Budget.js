@@ -24,20 +24,27 @@ const expenseSchema = new mongoose.Schema({
     },
     dateOfPayment: {
       type: Date,
+      default: "",
     },
     paymentDueBy: {
       type: Date,
+      default: "",
     },
     paidBy: {
       type: String,
+      default: "",
     },
     paymentMethod: {
       type: String,
+      default: "",
     },
   },
 });
 
 const categorySchema = new mongoose.Schema({
+  category: {
+    type: String,
+  },
   estimatedBudget: {
     type: Number,
     default: 0,
@@ -51,29 +58,6 @@ const categorySchema = new mongoose.Schema({
     default: 0,
   },
   expenses: [expenseSchema],
-});
-
-categorySchema.pre("save", function (next) {
-  function calculateBudgets(expenses) {
-    const estimatedBudget = expenses.reduce(
-      (acc, exp) => acc + exp?.estimatedBudget,
-      0
-    );
-    const finalCost = expenses.reduce((acc, exp) => acc + exp?.finalCost, 0);
-    const paid = expenses.reduce((acc, exp) => acc + exp?.paid, 0);
-    return { estimatedBudget, finalCost, paid };
-  }
-
-  if (this.isModified("expenses")) {
-    const { estimatedBudget, finalCost, paid } = calculateBudgets(
-      this.expenses
-    );
-    this.estimatedBudget = estimatedBudget;
-    this.finalCost = finalCost;
-    this.paid = paid;
-  }
-
-  next();
 });
 
 const budgetSchema = new mongoose.Schema({
@@ -93,10 +77,7 @@ const budgetSchema = new mongoose.Schema({
     type: Number,
     default: 0,
   },
-  categories: {
-    type: Map,
-    of: categorySchema,
-  },
+  categories: [categorySchema],
 });
 
 const Budget = mongoose.model("Budget", budgetSchema);
